@@ -36,7 +36,7 @@ MySQL is used to store user credentials and transaction history in different sch
 
 👉Motivation behind the project
 --
--
+
 The motive behind choosing this project was to build a platform that can come to practical use in real world. We saw the need of a crowd-funding webapp after volunteering one of the NGO/trust in our summer internship that can provide smooth functionality as well as transparency of payments for the various campaigns/charities carried out. So, we decided to come up with this project that can provide a good user experience as well as ensure the transparency of the payments carried out. And, also serve as a platform working for a good cause.
 
 👉SetUp Steps
