@@ -17,7 +17,7 @@ FundFlow is a streamlined, secure, and transparent crowdfunding platform that al
 
 👉Tech Stack
 --
--
+
 Frontend Implementation:
 - HTML
 - CSS
@@ -41,7 +41,7 @@ The motive behind choosing this project was to build a platform that can come to
 
 👉SetUp Steps
 --
--
+
 - Prerequisites
 npm installed, Credentials of bank account(i.e. Account no., CVV) etc.
 
@@ -58,6 +58,6 @@ Run npm start
 
 Screenshots
 --
--
+
 
 
